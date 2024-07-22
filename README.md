@@ -3,4 +3,4 @@ Bootstrap:
 
 
 Tailwind:
-  /https://dev-connect-1.netlify.app/
+  https://dev-connect-1.netlify.app/
